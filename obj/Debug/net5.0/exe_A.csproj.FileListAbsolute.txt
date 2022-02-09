@@ -1,0 +1,16 @@
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.exe
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.deps.json
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.runtimeconfig.json
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.runtimeconfig.dev.json
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.dll
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\ref\exe_A.dll
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\bin\Debug\net5.0\exe_A.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.csproj.AssemblyReference.cache
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.AssemblyInfoInputs.cache
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.AssemblyInfo.cs
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.csproj.CoreCompileInputs.cache
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.dll
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\ref\exe_A.dll
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.pdb
+C:\Users\janis\OneDrive\Dators\Projekti\exe_A\exe_A\obj\Debug\net5.0\exe_A.genruntimeconfig.cache

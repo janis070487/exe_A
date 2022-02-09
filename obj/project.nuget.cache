@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "acdkQ/SJDB/v4V/94zgJqlZjLMkT22WphoGK4Jsg2+Ncj30zthlc1A7V4qp8+XpzNqiukrkDuATG66Tipd69Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janis\\OneDrive\\Dators\\Projekti\\exe_A\\exe_A\\exe_A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
